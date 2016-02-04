@@ -1,0 +1,40 @@
+.fondo{
+	margin-top: 20px;
+	background-color: #dbdbdb;
+	background-size: 100%;
+}
+.fondo .row h3{
+	margin-top: 5%;
+}
+.opaco{
+	color: white;
+	opacity: 0.5;
+	background-color: black;
+	padding: 2%;
+	position: relative;
+	top: 40%;
+}
+.imagen{
+    height: 440px;
+    background-position: center;
+    background-size: cover;
+    padding: 4%;
+}
+.uno{
+	background-image: url("../img/dance_12.jpg");
+}
+.dos{
+	background-image: url("../img/breakdance.jpg");
+}
+.tres{
+	background-image: url("../img/lirical-jazz.jpg");
+}
+.cuatro{
+	background-image: url("../img/arabe.jpg");
+}
+.cinco{
+	background-image: url("../img/little.jpg");
+}
+.seis{
+	background-image: url("../img/yoga.jpg");
+}

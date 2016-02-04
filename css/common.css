@@ -1,0 +1,35 @@
+*{
+	text-decoration: none;
+    list-style-type: none;
+}
+header li{
+	display: inline;
+	color: #BBADA9;
+	margin-left: 5%;
+}
+.shoes{
+	float: right;
+}
+.cuadro{
+	padding: 20px;
+	margin-bottom: 15px;
+}
+.icono{
+	position: relative;
+	right: 352px;
+}
+.pen{
+	position: relative;
+    right: 356px;
+    bottom: 100px;
+}
+.enviar{
+	background-color: #192951;
+	width: 368px;
+    border-radius: 5px;
+    color: #C3C6C5;
+}
+footer{
+	background-color: #192951;
+    color: #C3C6C5;
+}

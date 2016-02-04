@@ -1,0 +1,77 @@
+.studio{
+	background-image: url("../img/dance_1.jpg");
+	background-size: 100%;
+	height: 385px;
+	margin-top: 2%;
+	color: #C3C6C5;
+}
+.studio h1{
+	font-size: 55px;
+}
+.studio .row a p, .textura .row a p, .text, .boton p{
+	color: #C3C6C5;
+}
+.studio p:nth-child(2){
+    margin-top: 18px;
+    margin-bottom: 18px;
+} 
+.parrafo{
+	font-size: 12px;
+}
+.inscribete{
+	background-color: #020D1C;
+	width: 100px;
+    height: 35px;
+}
+.textura{
+	background-image: url("../img/textura_2.jpg");
+    height: 300px;
+}
+.textura .row img{
+	width: 100px;
+	height: 100px;
+}
+.oferta{
+    background-color: #192951;
+    width: 200px;
+    height: 50px;
+    border-radius: 5px;
+}
+.uno{
+	background-image: url("../img/instructor_4.jpg");
+	background-size: 100%;
+	height: 300px;
+}
+.dos{
+	background-image: url("../img/profesor_9.jpg");
+	background-size: 100%;
+	height: 300px;
+}
+.boton{
+	background-color: #192951;
+    width: 400px;
+    height: 70px;
+    position: relative;
+    top: 230px;
+}
+.boton p{
+	position: absolute;
+	right: 130px;
+}
+.visit{
+	margin-top: 30px;
+	margin-bottom: 8px;
+}
+.caja{
+	background-color: #192951;
+	background-size: 100%;
+	height: 400px;
+}
+.caja .col-8 iframe{
+	width: 450px;
+	height: 280px;
+	position: relative;
+	left: 180px;
+}
+
+
